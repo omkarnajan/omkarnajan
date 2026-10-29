@@ -2,7 +2,7 @@
 
 **Backend Software Engineer** building scalable, reliable services with Java, Spring Boot, and AWS. Previously @ **Amazon** and **Cytel**.
 
-📍 Hyderabad, India · Open to SDE II, Backend & Platform roles
+· Open to SDE II, Backend & Platform roles
 
 [**Portfolio**](https://omkarnajan.github.io) · [**Resume**](https://omkarnajan.github.io/Omkar_Najan_Resume.pdf) · [**LinkedIn**](https://www.linkedin.com/in/Omkar-Najan) · [**LeetCode**](https://leetcode.com/u/COderOmi/) · [**Email Me**](mailto:omkarnajan.cs@gmail.com)
 
